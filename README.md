@@ -53,7 +53,7 @@ The machine learning model was deployed using Hugging Face and integrated with t
 
 ## Demo
 
-A demonstration video of the SecureLink application will be added here.
+[Watch the SecureLink Demo](./The%20demonstration.mp4)
 
 ## Project Purpose
 
